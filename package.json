@@ -1,0 +1,20 @@
+{
+  "name": "kuzzle-tests",
+  "version": "1.0.0",
+  "description": "Kuzzle multi-clients functional tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kuzzle",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "auto-parse": "^1.2.0",
+    "bluebird": "^3.5.0",
+    "bufferutil": "^3.0.0",
+    "rc": "^1.1.7",
+    "utf-8-validate": "^3.0.1",
+    "uuid": "^3.0.1",
+    "ws": "^2.2.1"
+  }
+}
