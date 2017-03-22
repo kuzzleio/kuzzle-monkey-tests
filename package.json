@@ -13,11 +13,13 @@
     "auto-parse": "^1.2.0",
     "bluebird": "^3.5.0",
     "bufferutil": "^3.0.0",
+    "docker-names": "^1.0.3",
     "geolib": "^2.0.22",
     "lodash": "^4.17.4",
     "progress": "^1.1.8",
     "random-js": "^1.0.8",
     "rc": "^1.1.7",
+    "should": "^11.2.1",
     "utf-8-validate": "^3.0.1",
     "uuid": "^3.0.1",
     "ws": "^2.2.1"
