@@ -1,5 +1,6 @@
-const
-  Suite = require('./lib');
+'use strict';
+
+const Suite = require('./lib');
 
 let suite = new Suite();
 
