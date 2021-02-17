@@ -24,8 +24,8 @@
     "reify": "^0.11.24",
     "utf-8-validate": "^3.0.2",
     "uuid": "^3.0.1",
-    "uws": "0.14.5",
     "winston": "^2.3.1",
-    "winston-elasticsearch": "^0.5.0"
+    "winston-elasticsearch": "^0.5.0",
+    "ws": "^7.4.0"
   }
 }
