@@ -10,7 +10,6 @@
   "author": "Kuzzle",
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
-    "auto-parse": "^1.8.0",
     "bluebird": "^3.7.2",
     "bufferutil": "^4.0.3",
     "docker-names": "^1.1.1",
